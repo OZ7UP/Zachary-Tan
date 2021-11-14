@@ -14,7 +14,7 @@ author: Zachary Tan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://snapshot-with-a-coffee.netlify.app"
+  Home: "home"
   About Me: "aboutme"
   Resources to check out:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
