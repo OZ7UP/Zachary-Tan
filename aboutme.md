@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The basics and life experiences
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zachary Tan, but please feel free to call me "Zach". I am a Singaporean-born Australian currently residing and working in Nagasaki City, Japan, as an Assistant Language Teacher.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My passions include music, working out, travelling, photography, language education, language learning, and trying out new things from time to time. In fact, this website is one of two that I've created in order to indulge in some basic coding, the other being for [my band](https://roseburnavenuemusic.com).
 
-What else do you need?
+I also hope to use my personal website to showcase how I view the world through my photography edits.
 
-### My story
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Under construction
+
+### Work experience
+
+Under construction
