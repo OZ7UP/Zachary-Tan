@@ -14,12 +14,12 @@ author: Zachary Tan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "https://snapshot-with-a-coffee.netlify.app"
   About Me: "aboutme"
+  Zach's band: "https://roseburnavenuemusic.com"
   Resources to check out:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Zach's band: "https://roseburnavenuemusic.com"
 
 # --- Logo --- #
 
