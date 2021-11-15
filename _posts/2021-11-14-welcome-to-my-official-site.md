@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome!
-subtitle: Coffee is not guaranteed. Sorry!
+subtitle: No coffee yet... Sorry!
 cover-img: /assets/img/Meganebashi.JPG
 share-img: /assets/img/Meganebashi.JPG
 tags: [Personal, test]
@@ -13,7 +13,7 @@ It's not easy to try something new. Every time you consider taking that one step
 
 Growing up in an east-Asian family, this hits home pretty hard. However, as an educator in my own right, the experience of making mistakes, and both dealing with and learning from the fallout is a vital part of learning, which is a life skill we have to keep using. 
 
-While this is the second website I've managed to bring online, the first one being my band (see the navigation bar for a link to that website), it is not my second attempt at creating one. I've had quite a few sites that have failed to deploy sucessfully on Netlify due to coding mishaps, which is completely fair enough. Beyond what I've learned in middle school in the UK, my coding experience is fairly limited.
+While this is the second website I've managed to bring online, the first one being for my band (see the navigation bar for a link to that website), it is not my second attempt at creating one. I've had quite a few sites that have failed to deploy sucessfully on Netlify due to coding mishaps, which is completely fair enough. Beyond what I've learned in middle school in the UK, my coding experience is fairly limited.
 
 To even bring one website online, let alone two, is quite amazing for someone who doesn't even code as a hobby.
 
