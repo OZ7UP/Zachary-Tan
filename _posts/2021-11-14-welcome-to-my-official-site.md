@@ -2,6 +2,8 @@
 layout: post
 title: Welcome!
 subtitle: Coffee is not guaranteed. Sorry!
+cover-img: /assets/img/Meganebashi.JPG
+share-img: /assets/img/Meganebashi.JPG
 tags: [Personal, test]
 ---
 
