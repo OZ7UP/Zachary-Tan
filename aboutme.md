@@ -12,24 +12,24 @@ My passions include music, working out, travelling, photography, language educat
 
 I also hope to use my personal website to showcase how I view the world through my photography edits. I do have a fair warning: coffee is not guaranteed in any of the pictures I choose to share. I simply wanted to be cute with the name for the website.
 
-### Education
+## Education
 
 Under construction
 
-### Work experience
+## Work experience
 
 Under construction
 
-### What Zach is currently using:
+## What Zach is currently using:
 
-## For IT:
+### For IT:
 
 2021 M1 iPad Pro, 2019 iPad Mini, Lenovo Chromebook Duet, 2013 MacBook Air (on occasion)
 
-## For music:
+### For music:
 
 Rockbass by Warwick Corvette $$, Hofner Violin Bass (Ignition version), BandLab, REAPER, Toon Track EZDrummer, Toon Track EZKeys
 
-## For fashion:
+### For fashion:
 
 Jack London, UNIQLO
