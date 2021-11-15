@@ -19,3 +19,17 @@ Under construction
 ### Work experience
 
 Under construction
+
+### What Zach is currently using:
+
+## For IT:
+
+2021 M1 iPad Pro, 2019 iPad Mini, Lenovo Chromebook Duet, 2013 MacBook Air (on occasion)
+
+## For music:
+
+Rockbass by Warwick Corvette $$, Hofner Violin Bass (Ignition version), BandLab, REAPER, Toon Track EZDrummer, Toon Track EZKeys
+
+## For fashion:
+
+Jack London, UNIQLO
