@@ -12,24 +12,19 @@ My passions include music, working out, travelling, photography, language educat
 
 I also hope to use my personal website to showcase how I view the world through my photography edits. I do have a fair warning: coffee is not guaranteed in any of the pictures I choose to share. I simply wanted to be cute with the name for the website.
 
-## Education
 
-Under construction
+## What I use:
 
-## Work experience
+As the section title suggests, these are the tools and items that I rely on for professional and personal purposes.
 
-Under construction
+### IT-related tools and items:
 
-## What Zach is currently using:
+2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite
 
-### For IT:
+### Music-related tools and items:
 
-2021 M1 iPad Pro, 2019 iPad Mini, Lenovo Chromebook Duet, 2013 MacBook Air (on occasion)
+Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, BandLab, Toon Track EZDrummer, Toon Track EZKeys
 
-### For music:
+### My wardrobe:
 
-Rockbass by Warwick Corvette $$, Hofner Violin Bass (Ignition version), BandLab, REAPER, Toon Track EZDrummer, Toon Track EZKeys
-
-### For fashion:
-
-Jack London, UNIQLO
+Jack London, Vanquish Fitness
