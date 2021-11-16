@@ -17,19 +17,19 @@ Job description: Helping to teach English to primary and lower-secondary student
 
 Other notes: Refer to below for assigned schools.
 
-##### Inasa Elementary School (April 2021 - present)
+<i>Inasa Elementary School (April 2021 - present)</i>
 
-##### Midorigaoka Junior High School (September 2020 - present)
+<i>Midorigaoka Junior High School (September 2020 - present)</i>
 
-##### Nishimachi Elementary School (September 2020 - present)
+<i>Nishimachi Elementary School (September 2020 - present)</i>
 
-##### Nishishiroyama Elementary School (September 2020 - present)
+<i>Nishishiroyama Elementary School (September 2020 - present)</i>
 
-##### Doinokubi Junior High School (August 2018 - August 2020)
+<i>Doinokubi Junior High School (August 2018 - August 2020)</i>
 
-##### Doinokubi Elementary School (August 2018 - August 2020; September 2020 - December 2020)
+<i>Doinokubi Elementary School (August 2018 - August 2020; September 2020 - December 2020)</i>
 
-##### Nagasaki Prefecture Kaisei Bunko (August 2018 - August 2020; November 2020 - December 2020)
+<i>Nagasaki Prefecture Kaisei Bunko (August 2018 - August 2020; November 2020 - December 2020)</i>
 
 #### ANZUK (Australia)
 
@@ -59,7 +59,7 @@ Job description: Teaching Italian for five weeks at the lower secondary level as
 
 Role: Pre-service teacher
 
-Duration: April 1016; August 2016 - September 2016
+Duration: April 2016; August 2016 - September 2016
 
 Job description: (1) Observing Italian and English As An Additional Language (EAL) lessons for two weeks; (2) Teaching lower-secondary Italian and EAL for five weeks as a pre-service teacher undertaking a Masters programme at Deakin University, planning and teaching lessons while guided by feedback from assigned mentor teachers.
 
