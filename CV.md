@@ -56,3 +56,51 @@ Duration: April 2017 - May 2017
 Job description: Teaching Italian for five weeks at the lower secondary level as a pre-service teacher undertaking a Masters programme at Deakin University, planning and teaching lessons while guided by feedback from an assigned mentor teacher
 
 #### Cheltenham Secondary College
+
+Role: Pre-service teacher
+
+Duration: April 1016; August 2016 - September 2016
+
+Job description: (1) Observing Italian and English As An Additional Language (EAL) lessons for two weeks; (2) Teaching lower-secondary Italian and EAL for five weeks as a pre-service teacher undertaking a Masters programme at Deakin University, planning and teaching lessons while guided by feedback from assigned mentor teachers.
+
+#### Kumon Australia
+
+Role: English and Mathematics tutor
+
+Duration: September 2013 - January 2017
+
+Job description: Tutoring students in English and Mathematics at the East Malvern and Williamstown locations, providing supervision and on-the-spot feedback to improve student outcomes.
+
+### Others
+
+#### Singapore Armed Forces
+
+Role: Supply Assistant
+
+Duration: March 2007 - February 2009; December 2009 (Role carried out May 2007 - February 2009)
+
+## Education
+
+### Graduate Certificate in Education (Middle School Mathematics)
+
+Australian Catholic University (Online) (2018; award received 2019)
+
+### Masters of Teaching (Secondary; Italian and English As An Additional Language)
+
+Deakin University (2016 - 2017; award received 2018)
+
+### Bachelor of Commerce (Management and Marketing)
+
+The University of Melbourne (2009 - 2012; award received December 2012)
+
+
+## Skills
+
+### Multilingualism
+
+Able to communicate (to varying degrees of proficiency) in English, Italian, French, Japanese, and Mandarin Chinese.
+
+### ICT
+
+- Able to use a range of office tools on iPadOS, MacOS, Linux, and Windows.
+- Created this website and another for my band through the use of GitHub, requiring a quick understanding of basic html and CSS.
