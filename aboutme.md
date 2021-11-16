@@ -19,7 +19,7 @@ As the section title suggests, these are the tools and items that I rely on for 
 
 ### IT-related tools and items:
 
-2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite
+2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite, iPod Touch 7th generation
 
 ### Music-related tools and items:
 
