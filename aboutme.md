@@ -27,4 +27,4 @@ Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, B
 
 ### My wardrobe:
 
-Jack London, Vanquish Fitness
+[Jack London](https://shop.jacklondon.com.au/), [Vanquish Fitness](https://www.vqfit.com/)
