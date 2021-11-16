@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: The basics and life experiences
+subtitle: The basics
 ---
 
 My name is Zachary Tan, but please feel free to call me "Zach". I am a Singaporean-born Australian currently residing and working in Nagasaki City, Japan, as an Assistant Language Teacher.
