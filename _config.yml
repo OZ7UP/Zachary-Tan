@@ -16,6 +16,7 @@ author: Zachary Tan
 navbar-links:
   Home: "https://snapshot-with-a-coffee.netlify.app"
   About Me: "aboutme"
+  CV: "CV"
   Zach's band: "https://roseburnavenuemusic.com"
   Resources to check out:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
