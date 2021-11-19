@@ -17,13 +17,15 @@ I also hope to use my personal website to showcase how I view the world through 
 
 As the section title suggests, these are the tools and items that I rely on for professional and personal purposes.
 
-### IT-related tools and items:
+### IT-related hardware and software:
 
 2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite, iPod Touch 7th generation
 
+Trello, Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo
+
 ### Music-related tools and items:
 
-Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, BandLab, Toon Track EZDrummer, Toon Track EZKeys
+Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, BandLab, Toon Track EZDrummer, Toon Track EZKeys, Tula noise-cancelling microphone
 
 ### Fitness supplements:
 
