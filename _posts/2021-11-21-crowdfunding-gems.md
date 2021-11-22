@@ -3,6 +3,7 @@ layout: post
 title: Crowdfunding can pay off...
 subtitle: ...if you are careful with your investments.
 cover-img: /assets/img/Specific/Tula.PNG
+tags: personal, reflection
 ---
 To summarise the wise words of the Simpsons side character, Carl Karlson, crowdfunding is when many people contribute small amounts of cash to help bring your passion project to life. Good for you if you are really passionate about whatever it is you are doing, or if you are planning to split and run (in which case, shame upon you), but if you're the one who's contributing the money, be aware that you are still engaged in a form of gambling.
 
