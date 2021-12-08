@@ -10,7 +10,7 @@ My passions include music, working out, travelling, photography, language educat
 
 I also hope to use my personal website to showcase how I view the world through my photography edits. I do have a fair warning: coffee is not guaranteed in any of the pictures I choose to share. I simply wanted to be cute with the name for the website.
 
-With that said, short of any photos I choose to share, there is one place on my website where you are guaranteed to find a picture of coffee. The only hint I can give to you is that it can be easy to get lost if you are wandering about.
+With that said, short of any photos I choose to share, there is one place on my website where you are guaranteed to find a picture of me drinking coffee. The only hint I can give to you is that it can be easy to get lost if you are wandering about.
 
 
 ## What I use:
