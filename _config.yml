@@ -14,13 +14,17 @@ author: Zachary Tan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://snapshot-with-a-coffee.netlify.app"
+  Home: "index"
   About Me: "aboutme"
   CV: "CV"
   Zach's band: "https://roseburnavenuemusic.com"
-  Resources to check out:
+  Resources for building websites:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Be like Zach:
+    - Get stronger with InnoSupps: "http://innosupps.com/"
+    - Wear Jack London: "https://shop.jacklondon.com.au/"
+    - Wear Vanquish Fitness: "https://www.vqfit.com/"
 
 # --- Logo --- #
 
