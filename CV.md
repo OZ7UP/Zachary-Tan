@@ -15,7 +15,7 @@ Duration: August 1st 2018 to present
 
 Job description: Helping to teach English to primary and lower-secondary students at municipal schools while promoting foreign cultures.
 
-Other notes: Refer to below for assigned schools.
+Other notes: Refer to below for assigned schools. <b>In Japanese, the school names will include 長崎市立 (Nagasaki-shi-ritsu) to indicate they are operated by the city municipality; i.e. 長崎市立緑が丘中学校</b>
 
 <i>Inasa Elementary School (April 2021 - present)</i>
 
