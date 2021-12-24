@@ -17,13 +17,13 @@ Job description: Helping to teach English to primary and lower-secondary student
 
 Other notes: Refer to below for assigned schools. <b>In Japanese, the school names will include 長崎市立 (Nagasaki-shi-ritsu) to indicate they are operated by the city municipality; i.e. 長崎市立緑が丘中学校</b>
 
-<i>Inasa Elementary School (April 2021 - present)</i>
-
 <i>Midorigaoka Junior High School (September 2020 - present)</i>
 
 <i>Nishimachi Elementary School (September 2020 - present)</i>
 
 <i>Nishishiroyama Elementary School (September 2020 - present)</i>
+
+<i>Inasa Elementary School (April 2021 - December 2021)</i>
 
 <i>Doinokubi Junior High School (August 2018 - August 2020)</i>
 
