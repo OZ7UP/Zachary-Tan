@@ -11,7 +11,7 @@ title: Music Portfolio
 
 ## Bass performance
 
-### "Beneath the Waves by Roseburn Avenue (performance + songwriting)
+### "Beneath the Waves" by Roseburn Avenue (performance + songwriting)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WHHYZWmiiBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
