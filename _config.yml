@@ -18,6 +18,9 @@ navbar-links:
   About Me: "aboutme"
   CV: "CV"
   Zach's band: "https://roseburnavenuemusic.com"
+  Portfolio:
+    - Music: "Music"
+    - Photography: "Photography"
   Resources for building websites:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
