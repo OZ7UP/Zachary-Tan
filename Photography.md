@@ -2,6 +2,9 @@
 layout: page
 title: Photography portfolio
 ---
+## Note from Zach:
+
+This page will be updated accordingly, with pictures removed and replaced. Any such pictures that are removed will remain available on the corresponding blog posts.
 
 ### Kumamoto New Year Weekend 2022
   
