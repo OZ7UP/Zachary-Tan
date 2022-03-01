@@ -31,7 +31,7 @@ A “cimetech”-branded cloth mousepad
 
 A “WEN RUI”-branded wireless mechanical 61-key keyboard (an older model of the Royal Kludge RK-61 wireless keyboard)
 
-![image](assets/img/reviews/Duet-Desktop.jpg/)
+![image](assets/img/reviews/Duet-Desktop.jpg)
 
 <i>The Chromebook Duet when set up to look like a pseudo-desktop machine.</i>
 
