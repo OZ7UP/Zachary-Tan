@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Victories Matter
-Subtitle: See the ladder, not the tower
+Subtitle: See the ladder and not the tower
 tags: personal, advice, resolution
 ---
 
