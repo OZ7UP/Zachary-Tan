@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Victories Matter
-Subtitle: The ladder matters more than the tower.
+subtitle: The ladder matters more than the tower.
 tags: personal, advice, resolution
 ---
 
