@@ -1,9 +1,9 @@
-———
+---
 layout: post
 title: The joys of reading
 subtitle: Open your minds
 tags: reflection
-———
+---
 
 I've been an avid reader as far as I can remember.
 
