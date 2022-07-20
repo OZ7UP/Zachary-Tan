@@ -17,4 +17,4 @@ In other news, I'll be more active on the Roseburn Avenue front. If all goes to 
 
 I can't wait to get started.
 
-What's new over at your end?
+What's new over at your end? [Let's have a chat.](https://twitter.com/RBurn_Ave_Zach/status/1549623492210921473){:target="_blank"}
