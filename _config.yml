@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   CV: "CV"
-  Zach's band: "https://roseburnavenuemusic.com"
+  Zach's band: "https://roseburnavenuemusic.com"{:target="_blank"}
   Portfolio:
     - Music: "Music"
     - Photography: "Photography"
