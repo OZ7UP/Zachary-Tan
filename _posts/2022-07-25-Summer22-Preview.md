@@ -13,4 +13,4 @@ It's all fine, though. I'm not going to pass up the opportunity to make new memo
 
 In between all that, I'll still be working on my fitness and my music. Gotta keep pushing onwards, after all!
 
-What will you be doing during the summer (or winter, if you're in the Southern Hemisphere)? Feel free to let me know!
+What will you be doing during the summer (or winter, if you're in the Southern Hemisphere)? [Feel free to let me know!](https://twitter.com/RBurn_Ave_Zach/status/1551358478710501377){:target="_blank"}
