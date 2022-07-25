@@ -8,9 +8,9 @@ My name is Zachary Tan, but please feel free to call me "Zach". I am a Singapore
 
 My passions include music, working out, travelling, photography, language education, language learning, coffee, and trying out new things from time to time. In fact, this website is one of two that I've created in order to indulge in some basic coding, the other being for [my band](https://roseburnavenuemusic.com){:target="_blank"}.
 
-I also hope to use my personal website to showcase how I view the world through my photography edits. I do have a fair warning: coffee is not guaranteed in any of the pictures I choose to share. I simply wanted to be cute with the name for the website.
+The main premise of my website is to share snapshots of my life. This does not necessarily mean just literal snapshots. If the general purpose of a snapshot is to capture the moment, the purpose of my writing is to capture my thoughts and ideas for any given time.
 
-With that said, short of any photos I choose to share, there is one place on my website where you are guaranteed to find a picture of me drinking coffee. The only hint I can give to you is that it can be easy to get lost if you are wandering about.
+The bit about coffee? I usually tend to be hopped up on either the titular drink or my usual pre-workout whenever I decide to hit the keyboard. I'm also focusing on tidying up my writing so that each post can be read in the same time it takes to enjoy a (double-) shot of espresso.
 
 
 ## What I use:
@@ -21,7 +21,7 @@ As the section title suggests, these are the tools and items that I rely on for 
 
 2021 M1 iPad Pro, 2019 iPad Mini, 2020 Lenovo Chromebook Duet, mid-2013 MacBook Air, Intel NUC (6th-generation Core i3) powered by Linux Lite, iPod Touch 7th generation
 
-Trello, Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo, monday(dot)com
+Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo, monday(dot)com, Grammarly
 
 ### Music-related tools and items:
 
@@ -30,6 +30,10 @@ Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, B
 ### Fitness supplements:
 
 [Innosupps](https://www.innosupps.com/){:target="_blank"}
+
+### Fitness tools:
+
+[Iron Bull](https://ironbullstrength.com){:target="_blank"}
 
 ### My wardrobe:
 
