@@ -13,9 +13,9 @@ For the record, I would like to express that I am not a vegan, but I am working 
 
 My main criterion when looking for a post-workout protein drink is that it should not have sucralose.
 
-![image](assets/img/reviews/InnoSupps-blueberry.jpg)
+![image](/assets/img/reviews/InnoSupps-blueberry.jpg)
 
-![image](assets/img/reviews/KOS-front.jpg)
+![image](/assets/img/reviews/KOS-front.jpg)
 
 For this taste test, I will look at the "Blueberry Crumble" clean vegan protein by InnoSupps and the chocolate-flavoured organic plant protein by KOS. Both proteins were mixed with around 250ml of unsweetened almond milk. I've tried to stick as close to the recommended servings as possible.
 
@@ -23,9 +23,9 @@ The InnoSupps protein tastes like an actual blueberry crumble, right down to the
 
 On the other hand, the KOS protein reminds me quite a lot of the Singaporean version of Milo, albeit slightly less sweet. The slightly-higher fat content helps to bring out the richness of the chocolate flavour. The powder also dissolves much better than InnoSupps', reducing the amount of wasted protein.
 
-![image](assets/img/reviews/InnoSupps-blueberry-back.jpg)
+![image](/assets/img/reviews/InnoSupps-blueberry-back.jpg)
 
-![image](assets/img/reviews/KOS-back.jpg)
+![image](/assets/img/reviews/KOS-back.jpg)
 
 Looking at the macronutrients, InnoSupps provides more protein per serving (80%) than KOS does (51%). KOS also has a slightly higher amount of fat compared to InnoSupps. Still, as I've mentioned, the fat enhances the chocolate flavour, and it is derived from coconut oil.
 
