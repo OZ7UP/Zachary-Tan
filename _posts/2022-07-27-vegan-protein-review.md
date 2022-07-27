@@ -31,4 +31,4 @@ Looking at the macronutrients, InnoSupps provides more protein per serving (80%)
 
 When deciding which to choose, it boils down to your choice and personal goals. Both proteins are pretty expensive, which is a given since sucralose is not used in either product. Since I train around five times a week, I'd rather stick with InnoSupps because I'm getting more servings (and protein) out of each container. However, for someone who's starting out and training hard at a lower frequency, KOS is definitely worth trying. Yes, with a proper diet, the extra calories from the additional fat can still fuel your recovery process after an intense workout.
 
-If you're also consuming plant-based proteins after your workout, what are you taking?
+If you're also consuming plant-based proteins after your workout, [what are you taking?](https://twitter.com/RBurn_Ave_Zach/status/1552099105593184256){:target="_blank"}
