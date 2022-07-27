@@ -2,7 +2,7 @@
 layout: post
 title: Vegan protein review
 subtitle: A way away from whey
-tags: review
+tags: review, protein, fitness, health
 ---
 
 Before I begin, please excuse the subtitle for this post.
