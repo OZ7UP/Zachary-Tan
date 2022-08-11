@@ -73,6 +73,12 @@ Job description: Tutoring students in English and Mathematics at the East Malver
 
 ### Others
 
+#### Roseburn Avenue
+
+Roles: Co-leader (2019 - present), songwriter (2019 - present), bassist (2020 - present), male co-vocals (2020 - present)
+
+Duration: (2019 - present)
+
 #### Singapore Armed Forces
 
 Role: Supply Assistant
