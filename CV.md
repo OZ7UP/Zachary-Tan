@@ -39,6 +39,16 @@ Duration: May 2018 - July 2018
 
 Job description: Supporting local schools in Melbourne by filling in for teachers who are unable to teach for the day.
 
+<b>Schools supported:</b>
+
+<i>Westall Secondary College: EAL, humanities</i>
+
+<i>Marcellin College: Music</i>
+
+<i>Sacred Heart Primary School (Preston): Music</i>
+
+
+
 #### Fitzroy High School
 
 Role: Interning teacher
