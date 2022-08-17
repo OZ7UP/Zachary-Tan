@@ -39,7 +39,7 @@ Duration: May 2018 - July 2018
 
 Job description: Supporting local schools in Melbourne by filling in for teachers who are unable to teach for the day.
 
-<b>Schools supported:</b>
+<u>Schools supported:</u>
 
 <i>Westall Secondary College: EAL, humanities</i>
 
