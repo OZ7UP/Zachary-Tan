@@ -109,6 +109,10 @@ Deakin University (2016 - 2017; award received 2018)
 
 The University of Melbourne (2009 - 2012; award received December 2012)
 
+### Victorian Certificate of Education
+
+St Michael's Grammar School (St Kilda) (2006): Business Management (completed 2005), English, Mathematical Methods, Specialist Mathematics, Economics, French
+
 
 ## Skills
 
