@@ -43,7 +43,7 @@ Job description: Supporting local schools in Melbourne by filling in for teacher
 
 <i>Westall Secondary College: EAL, humanities</i>
 
-<i>Marcellin College: Music</i>
+<i>Marcellin College (Bulleen): Music</i>
 
 <i>Sacred Heart Primary School (Preston): Music</i>
 
