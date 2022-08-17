@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anyone can make music
-subtitle: or why I like BandLab
+subtitle: Plus a brief reason why I use BandLab
 tags: music
 ---
 
