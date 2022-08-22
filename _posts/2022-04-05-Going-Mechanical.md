@@ -14,3 +14,7 @@ I'd know. I started writing this with the keyboard cover that came with my Chrom
 Of course, it all depends on the quality of the keyboard. As with anything else, it's best to spend an extra bit of money on the quality of its components. My current mechanical keyboard has a rather dodgy BlueTooth connection, resulting in the occasional lag in input. The keyboard will also sometimes fail to connect with my Chromebook, forcing me to reset the connection. It's more annoying than game-breaking, but annoying nonetheless.
 
 Yet, as much as I regret skimping by getting a cheap keyboard, I don't regret buying one in the first place. I'm not a gamer, but as I've said, you can't help feeling satisfied at hearing yourself accomplish something.
+
+(EDIT AS OF 22 AUGUST 2022)
+
+The left alternate button key actually appears to work properly when paired via bluetooth to my iPad. In this case, it works as the Apple Key. The lag issues that were causing some problems on my Chromebook appear to have disappeared.
