@@ -25,4 +25,4 @@ That does remind me - I need to start practising playing the bass guitar again.
 
 (EDIT AS OF 22ND AUGUST 2022)
 
-If you are planning on using Grammarly as an editing tool, please do so on a computer. If you already have your own preferred writing style, the desktop browser version will allow you to set your stylistic goals, and take that into account when suggesting corrections. To the best of my knowledge, this has been removed from the iPadOS app; this can be irritating when the app keeps flagging the same stylistic choices that you want to retain.
+If you are planning on using Grammarly as an editing tool, please do so on a computer. If you already have your own preferred writing style, the desktop browser version will allow you to set your stylistic goals, and take that into account when suggesting corrections. To the best of my knowledge, the implementing of this tool is inconsistent on iPadOS; it's definitely available on my 11-inch M1 iPad Pro, and I'm pretty sure the regular iPad is big enough to display the feature, but it is not easily accessible (if at all) on an iPad Mini as the screen is not big enough.
