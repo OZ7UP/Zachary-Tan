@@ -41,6 +41,8 @@ The views of the sea along the west coast and the thoughts of what could possibl
 
 I’ll have to revisit the cafe at least another two times, and quite possibly more. In the meantime, I’ll be happy to start checking out what lies to the west of Mt Inasa.
 
+[How far would you travel for something delicious you spotted on social media?](https://twitter.com/RBurn_Ave_Zach/status/1561947185427582977){:target="_blank"}
+
 ![image](/assets/img/210822/Outer-view.jpg)
 
 <i>The exterior of the cafe.</i>
