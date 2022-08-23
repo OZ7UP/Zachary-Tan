@@ -4,18 +4,10 @@ title: Photography portfolio
 ---
 ## Note from Zach:
 
-This page will be updated accordingly, with pictures removed and replaced. Any such pictures that are removed will remain available on the corresponding blog posts - look up "photography" using the search function.
+This page will be updated accordingly, with links to the respective articles added. Alternatively, you can always use the search function to look up "photography".
 
-### Kumamoto New Year Weekend 2022
-  
-![image](/assets/img/Kumamoto-NY2022/A-Train.jpg)
-  
-![image](/assets/img/Kumamoto-NY2022/Aso-Boy.jpg)
-  
-![image](/assets/img/Kumamoto-NY2022/Aso-Long-Walk.jpg)
-  
-![image](/assets/img/Kumamoto-NY2022/Aso-Station-Overview.jpg)
-  
-![image](/assets/img/Kumamoto-NY2022/Aso-Station-Signboard.jpg)
+## Relevant articles:
 
+[A trip to Nagasaki City's rural north-west for curry: 21st August 2022](https://zachary-2w-tan.com/2022-08-23-beyond-the-horizon/){:target="_blank"}
 
+[Exploring Kumamoto Prefecture beyond its capital city: 1st-2nd January 2022](https://zachary-2w-tan.com/2022-01-12-kumamotonyd2022/){:target="_blank"}
