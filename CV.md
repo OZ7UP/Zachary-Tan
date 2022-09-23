@@ -39,6 +39,16 @@ Duration: May 2018 - July 2018
 
 Job description: Supporting local schools in Melbourne by filling in for teachers who are unable to teach for the day.
 
+<u>Schools supported:</u>
+
+<i>Westall Secondary College: EAL, humanities</i>
+
+<i>Marcellin College (Bulleen): Music</i>
+
+<i>Sacred Heart Primary School (Preston): Music</i>
+
+
+
 #### Fitzroy High School
 
 Role: Interning teacher
@@ -99,6 +109,10 @@ Deakin University (2016 - 2017; award received 2018)
 
 The University of Melbourne (2009 - 2012; award received December 2012)
 
+### Victorian Certificate of Education
+
+St Michael's Grammar School (St Kilda) (2006): Business Management (completed 2005), English, Mathematical Methods, Specialist Mathematics, Economics, French
+
 
 ## Skills
 
@@ -108,5 +122,5 @@ Able to communicate (to varying degrees of proficiency) in English, Italian, Fre
 
 ### ICT
 
-- Able to use a range of office tools on iPadOS, MacOS, Linux, and Windows.
+- Able to use a range of office suite tools, such as the Google Suite, Microsoft Office, and LibreOffice on iPadOS, ChromeOS, MacOS, Linux, and Windows.
 - Created this website and another for [Roseburn Avenue](https://roseburnavenuemusic.com){:target="_blank"} through the use of GitHub, requiring a quick understanding of basic html and CSS.
