@@ -80,7 +80,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: https://aus.social/@RBurn_Ave_Zach
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
@@ -100,7 +100,6 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: false
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
