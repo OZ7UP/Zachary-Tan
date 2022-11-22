@@ -25,7 +25,7 @@ Github, Grid Diary, Kahoot, ColorNote, Working Copy, Darkroom, WeVideo, monday(d
 
 ### Music-related tools and items:
 
-Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, BandLab, Toon Track EZDrummer, Toon Track EZKeys, Tula noise-cancelling microphone
+Rockbass (by Warwick) Corvette $$, Hofner Ignition Series violin bass, REAPER, BandLab, Toon Track EZDrummer, Toon Track EZKeys, Tula noise-cancelling microphone, Flare Audio E-Prototype earphones
 
 Additional brands currently either stored in Australia or are not in use: Schecter, Washburn, Godin, Squire, Lollar Pickups, Seymour Duncan pickups, EMG pickups, Yamaha, Hartke, Hotone Audio, Mooer
 
