@@ -31,6 +31,12 @@ Other notes: Refer to below for assigned schools. <b>In Japanese, the school nam
 
 <i>Nagasaki Prefecture Kaisei Bunko (August 2018 - August 2020; November 2020 - December 2020)</i>
 
+Additional roles and achievements:
+
+<i>Contributor to the 2022 Nagasaki Prefecture Skill Development Conference.</i>
+
+<i>Staff member for the Nagasaki City 2022 "Go! Go! Go Glover Garden" English event.</i>
+
 #### ANZUK (Australia)
 
 Role: Classroom Relief Teacher
