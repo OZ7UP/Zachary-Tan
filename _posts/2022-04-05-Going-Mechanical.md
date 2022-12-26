@@ -18,3 +18,7 @@ Yet, as much as I regret skimping by getting a cheap keyboard, I don't regret bu
 (EDIT AS OF 22 AUGUST 2022)
 
 The left alternate button key actually appears to work properly when paired via bluetooth to my iPad. In this case, it works as the Apple Key. The lag issues that were causing some problems on my Chromebook appear to have disappeared.
+
+(EDIT AS OF 26 DECEMBER 2022)
+
+For a few months, the Windows key on the left side of the keyboard had stopped functioning as the search key for ChromeOS. Functionality was later restored to a certain extent, with the left "Alt" button taking on the function. The original mapping appears to have been restored upon switching the Chromebook over to the beta channel.
