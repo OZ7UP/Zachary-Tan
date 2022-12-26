@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Just found a new obsession
-subtitle:: Watch the ink flow
-tags: writing, personal, here we go again
+subtitle: Watch the ink flow
+tags: writing, personal, HereWeGoAgain, HashtagsAreTough
 ---
 
 How did it come to this?
