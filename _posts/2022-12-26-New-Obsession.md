@@ -9,7 +9,7 @@ How did it come to this?
 
 Just slightly over two years ago, I purchased the original Lenovo Chromebook Duet on a prophetic whim. Since then, most of my computing has been done on tablets - I use the Chromebook at work and two iPads at home.
 
-Let us jump to September 2021. I became obsessed with turning my Chromebook into a portable desktop setup. This led to me buying a cheap wireless mechanical keyboard. Despite its flaws, I was hooked by the typing experience; I can see myself buying at least two more when I eventually move home to Australia.
+Let us jump to September 2021. I became obsessed with turning my Chromebook into a portable desktop setup. This led to me buying a cheap wireless mechanical keyboard. [Despite its flaws](https://zachary-2w-tan.com/2022-04-05-going-mechanical/){:target="_blank"}, I was hooked by the typing experience; I can see myself buying at least two more when I eventually move home to Australia.
 
 As of today, we are now at the tail end of December 2022. My friend and I were out looking for potential birthday gifts for another one of our friends, and I suggested checking out the massive stationery store in the main shopping arcade.
 
@@ -26,3 +26,5 @@ The way in which one letter would flow into another, thus influencing how one wo
 It's better to say I'm now addicted.
 
 Thank goodness this addiction will be reasonably cheap in the long run. I simply need to remember which way to store my pencil case in my bag when travelling between my apartment and my workplaces here in Japan.
+
+[Have you become obsessed with anything throughout the year?](https://aus.social/@RBurn_Ave_Zach/109577371984268802){:target="_blank"}
