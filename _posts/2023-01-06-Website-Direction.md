@@ -7,7 +7,7 @@ tags: WhatIsGoingOn, PersonalStuff, SocialNetworking
 
 It’s 2023, and I think it’s about time to take another step out of my comfort zone.
 
-Before I continue, though, I’d like to thank you for taking the time to read what I have to say, and I hope you’ll continue to do so. Even if it’s just one or two of you, I appreciate that you’re paying attention to what I have (or want) to say.
+Before I continue, though, I’d like to thank you for taking the time to read what I have to say, and I hope you’ll continue to do so. Even if it’s just one or two of you, I appreciate that you’re paying attention to whatever it is that I’m sharing.
 
 I’ll be treating both my website and my Mastodon account as two sides of the same coin. As for what the coin represents, think of it as a pokey little club that’s open to the public. If you’re already following me on [Mastodon](https://famichiki.jp/@Rburn_Ave_Zach){:target=“_blank”}, you’ll have access to any updates on my website.
 
