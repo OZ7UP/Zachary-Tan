@@ -19,7 +19,7 @@ If I feel like sharing some ripper photos, you’ll get to see them.
 
 If there’s a random thought that’s too large for me to express in 500 characters, you’ll get to read it. Hopefully, it won’t be too angsty.
 
-Of course, all previous posts will remain available for you to peruse at your leisure. Hopefully, you’ll be nursing a cuppa while you do so.
+Of course, all previous posts will remain available for you to peruse at your leisure. I recommend nursing a cuppa while you do so.
 
 All this will be absolutely free to access. You won’t have to worry about any paywalls, and I’m not going to charge extra for perks. Simply follow me on Mastodon.
 
