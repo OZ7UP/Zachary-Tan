@@ -27,4 +27,4 @@ It's better to say I'm now addicted.
 
 Thank goodness this addiction will be reasonably cheap in the long run. I simply need to remember which way to store my pencil case in my bag when travelling between my apartment and my workplaces here in Japan.
 
-[Have you become obsessed with anything throughout the year?](https://aus.social/@RBurn_Ave_Zach/109577371984268802){:target="_blank"}
+Have you become obsessed with anything throughout the year?
