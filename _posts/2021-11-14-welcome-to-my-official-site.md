@@ -20,3 +20,9 @@ To even bring one website online, let alone two, is quite amazing for someone wh
 If I can try something that's completely out of my comfort zone, you can too.
 
 Have a good one.
+
+(EDIT as of the seventh of January 2023)
+
+I can’t add Alt Text to the image built into the header of this post, so I’ll describe it for you:
+
+<i>Meganebashi: a small double-arched stone bridge that looks like a pair of glasses when reflected in the water.</i>
