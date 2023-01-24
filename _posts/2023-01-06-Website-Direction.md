@@ -15,7 +15,7 @@ If I decide to upload a video, you’ll get to see it.
 
 If I feel like sharing some ripper photos, you’ll get to see them.
 
-(That reminds me, I need to figure out how to add Alt Text to what I already have on my website.)
+~~(That reminds me, I need to figure out how to add Alt Text to what I already have on my website.)~~
 
 If there’s a random thought that’s too large for me to express in 500 characters, you’ll get to read it. Hopefully, it won’t be too angsty.
 
