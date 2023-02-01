@@ -252,6 +252,10 @@ date_format: "%B %-d, %Y"
 # Facebook App ID
 #fb_app_id: ""
 
+mastodon:
+  user: RBurn_Ave_Zach
+  instance: famichiki.jp
+
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
@@ -296,6 +300,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll/mastodon_webfinger
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
